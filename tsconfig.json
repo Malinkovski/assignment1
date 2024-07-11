@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "EsNext",
+    "moduleResolution": "node",
+    "target": "ES2020",
+    "sourceMap": true,
+    "outDir": "./build",
+    "rootDir": "./src",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"]
+}
