@@ -1,6 +1,6 @@
-# Internship Challenge
+# Assignment
 
-PABAU Internship Challenge
+Assignment Challenge
 
 ## Description
 
